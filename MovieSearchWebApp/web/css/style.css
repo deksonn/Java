@@ -1,0 +1,186 @@
+
+
+#nav{
+    font-size: 20px;
+    width: 75%;
+    height: 50px;
+    margin:auto;
+    margin-bottom: 30px;
+    
+}
+
+#nav table{
+    float: left;
+}
+
+#logo img{
+    width: 60px;
+    
+}
+
+th {
+    font-size: 35px;
+}
+
+#myCarousel{
+    width: 70%;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+#reklama {
+    width: 75%;
+    height: 40px;
+    margin: auto;
+    background-color:royalblue;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+#login{
+    float: right;
+    margin-right: 60px;
+    margin-top: 7px;
+}
+
+
+#login p{
+    font-size: 14px;
+}
+
+#fm{
+    float: left;
+    margin-left: 130px;
+    margin-top: 12px;
+}
+
+#movies{
+   width: 75%;
+   
+.movies{
+       margin: auto;
+   }    
+    
+}
+#log{
+    height: 95px;
+    background-color:royalblue;
+}
+
+#log h1{
+    padding-left: 15px;
+    color: white;
+}
+
+#foo {
+    width: 75%;
+    height: 40px;
+    margin: auto;
+    border: 2px solid black;
+    font-size: 20px;
+    background-color: royalblue;
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+
+#zr{
+    padding-top: 30px;
+    border: 2px dashed black;
+    width: 600px;
+    height: 420px;
+    margin:auto;
+    
+    
+}
+
+#zr a{
+    margin: 20px;
+    font-size: 20px;
+}
+
+#glum {
+    width: 75%;
+    margin: auto;
+}
+
+#rezis{
+    width: 75%;
+    margin: auto;
+ }
+ 
+#indx{
+    height: 90px;
+    background-color:royalblue;
+}
+
+#indx h1{
+    color: white;
+    padding-left: 170px;
+    float: left;
+}
+
+#indx p{
+    float: right;
+    padding-top: 10px;
+    padding-right: 400px;
+    color: white;
+    font-size: 22px;
+}
+
+#indx a{
+    color: white;
+}
+
+
+#slindex img{
+    margin-left: 100px;
+    margin-top: 40px;
+
+
+}
+
+#slindex{
+    width: 100%;
+    
+}
+
+#slindex p{
+    float: right;
+    margin-right: 400px;
+    margin-top: 100px;
+    font-size: 22px;
+}
+#slindex img{
+    float: left;
+}
+
+#fot{
+    height: 90px;
+    background-color:royalblue;
+    clear: both;
+}
+
+#fot p{
+    color: white;
+    font-size:  17px;
+    
+}
+
+#regg{
+    height: 95px;
+    background-color:royalblue;
+    
+}
+
+#regg h1{
+    padding-left: 15px;
+    color: white;
+}
+
+#myCarousel{
+    height: auto;
+}
