@@ -1,3 +1,3 @@
 # Java
 
-Open with NetBeans 8.2
+Open with NetBeans.
